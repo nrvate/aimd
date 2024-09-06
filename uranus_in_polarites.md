@@ -12,7 +12,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 
 **2. Archetypal Manifestations of Uranus in Planetary Polarity:**
 
-**1. Sun/Uranus (Yang Sun, Leading Uranus): The Radiant Rebel, Illuminating Change** 
+**1. Sun/Uranus (Yang Sun, Uranus Leading): The Radiant Rebel, Illuminating Change** 
 * **Principle:** This archetype embodies a fearless expression of individuality, radiating a powerful charisma that inspires others to embrace their own unique path. They are driven by a passionate desire to illuminate the world with their vision, challenging outdated norms and structures with courage and conviction. Uranus leads the charge, with the Sun's radiant energy amplifying its revolutionary message. 
 * **Examples:** Visionary leaders,  charismatic activists, artists who inspire through self-expression. 
 * **Core Dissonance:**  This archetype's core dissonance lies in the potential for egotism and a disregard for collaboration, as their forceful leadership style can alienate others who don't align with their vision.
@@ -24,7 +24,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with the need for humility and collaboration,  leading to an ego-driven approach that can alienate others.
 * **Tilt:**  60% Harmony Tilt
 
-**Sun/Uranus (Yin Sun, Following Uranus): The Enlightened Seeker, Illuminating the Self** 
+**Sun/Uranus (Yin Sun, Uranus Following): The Enlightened Seeker, Illuminating the Self** 
 * **Principle:** This archetype channels the Uranian spirit of awakening through the Sun's pursuit of self-knowledge and illumination. They are driven by a deep desire to understand their true nature, seeking to liberate themselves from limiting beliefs and embrace their unique individuality. Uranus, in this instance, follows the Sun's lead, its revolutionary energy serving the Sun's quest for self-discovery. 
 * **Examples:**  Individuals on a spiritual quest,  psychotherapists,  artists exploring their inner landscapes,  those seeking enlightenment through self-discovery. 
 * **Core Dissonance:** The core dissonance lies in the potential for excessive introspection and detachment from the external world,  leading to a lack of engagement with social realities.
@@ -36,7 +36,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% - Can clash with the Sun's need for external validation and recognition,  leading to a tendency to focus on inner work at the expense of engaging with the world.  
 * **Tilt:**  20% Harmony Tilt
 
-**Sun/Uranus (Yang Sun, Following Uranus): The Dazzling Innovator, Igniting Creativity**
+**Sun/Uranus (Yang Sun, Uranus Following): The Dazzling Innovator, Igniting Creativity**
 * **Principle:** This archetype channels the Uranian spark of ingenuity through the Sun's radiant self-expression, becoming a beacon of unconventional creativity and artistic brilliance.  They are driven by a passion to illuminate the world with their unique vision, using art, music, performance, or technology to break free from traditional boundaries and inspire others. They follow the Sun's lead, with Uranus's revolutionary energy amplifying their creative impact.
 * **Examples:** Avant-garde artists,  musicians who blend genres,  tech innovators who create visually stunning experiences,  performers who push the boundaries of self-expression.
 * **Core Dissonance:** The core dissonance lies in a potential lack of discipline and focus, as the drive for creative expression might lead to scattered energy and a struggle to manifest their ideas effectively. 
@@ -49,7 +49,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 30% Harmony Tilt
 
 
-**Sun/Uranus (Yin Sun, Leading Uranus):**  **The  Awakened Soul,  Shining From Within**
+**Sun/Uranus (Yin Sun, Uranus Leading):**  **The  Awakened Soul,  Shining From Within**
 * **Principle:**  This archetype embodies a profound inner transformation,  where Uranus's revolutionary energy awakens the Sun's true potential,  leading to a radiant expression of authenticity and spiritual awareness. They are driven by a deep desire to understand the mysteries of life and their place in the universe,  often seeking enlightenment through introspection and spiritual exploration.
 * **Examples:**  Spiritual teachers,  mystics,  healers who work with energy and consciousness,  individuals on a path of self-discovery.
 * **Core Dissonance:** The core dissonance lies in the potential for spiritual bypassing, using their spiritual insights to avoid confronting their shadow side or engaging with the complexities of the world.
@@ -61,7 +61,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  50% -  Can clash with the Sun's need for external validation and recognition,  leading to a tendency to withdraw from the world or become overly focused on their own inner experience.
 * **Tilt:**  Balanced
 
-**2. Moon/Uranus (Yang Moon, Leading Uranus):** **The Revolutionary Nurturer, Challenging Norms**
+**2. Moon/Uranus (Yang Moon, Uranus Leading):** **The Revolutionary Nurturer, Challenging Norms**
 * **Principle:** This archetype combines Uranus's rebellious spirit with the Moon's nurturing and caring qualities, leading a charge for emotional liberation and societal change. They challenge traditional norms around family and home, advocating for a more inclusive and accepting society.  Uranus takes the lead, driving the Moon's nurturing instincts toward radical transformation. 
 * **Examples:** Social workers,  community organizers,  activists fighting for social justice,  individuals who create safe spaces for others.
 * **Core Dissonance:**  The core dissonance lies in the potential for emotional instability and a tendency to disrupt established structures, often creating upheaval in their efforts to nurture and protect.
@@ -73,7 +73,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with the Moon's need for stability and security,  leading to emotional upheaval and a tendency to disrupt the status quo.
 * **Tilt:** 40% Harmony Tilt
 
-**Moon/Uranus (Yin Moon, Following Uranus):**  **The Intuitive Mystic, Exploring Inner Depths**
+**Moon/Uranus (Yin Moon, Uranus Following):**  **The Intuitive Mystic, Exploring Inner Depths**
 * **Principle:**  This archetype channels the Uranian spirit of awakening inward,  exploring the depths of their emotional landscape and the mysteries of the unconscious. They follow the Moon's intuitive guidance,  allowing their emotions and instincts to lead them on a journey of self-discovery.  Uranus's revolutionary energy illuminates the hidden realms of the psyche,  bringing unconscious patterns and beliefs to light.
 * **Examples:**  Therapists who specialize in dream analysis,  artists who explore the subconscious through their work,  individuals drawn to mystical and spiritual practices,  those who navigate the world through their intuition. 
 * **Core Dissonance:**  The core dissonance lies in a tendency towards emotional volatility and a struggle to balance their intuitive insights with grounded, practical action in the world. 
@@ -85,7 +85,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  45% -  Can clash with the Moon's need for security and stability,  leading to a tendency to be emotionally volatile and resist emotional intimacy. 
 * **Tilt:** 10% Harmony Tilt
 
-**Moon/Uranus (Yang Moon, Following Uranus): The Compassionate Rebel, Nurturing Freedom**
+**Moon/Uranus (Yang Moon, Uranus Following): The Compassionate Rebel, Nurturing Freedom**
 * **Principle:** This archetype blends the Moon's nurturing energy with Uranus's rebellious spirit, challenging traditional social structures and advocating for a more compassionate and inclusive world. They are driven by a deep empathy for the suffering of others and a desire to create a safe and nurturing space for those who feel marginalized. They follow the Moon's lead, using Uranus's disruptive energy to break down barriers and promote healing. 
 * **Examples:**  Activists who fight for the rights of marginalized communities,  therapists who create supportive spaces for emotional healing,  artists who use their work to inspire compassion and empathy. 
 * **Core Dissonance:**  The core dissonance lies in the potential for sacrificing their own needs for the sake of others,  leading to emotional burnout and a blurring of personal boundaries. 
@@ -98,7 +98,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 20% Harmony Tilt
 
 
-**Moon/Uranus (Yin Moon, Leading Uranus):**  **The Psychic Channel,  Accessing the Unconscious**
+**Moon/Uranus (Yin Moon, Uranus Leading):**  **The Psychic Channel,  Accessing the Unconscious**
 * **Principle:**  This archetype possesses a profound connection to the unconscious realms,  acting as a conduit for Uranian insights and intuitive downloads.  They are highly sensitive and receptive to subtle energies,  often experiencing psychic phenomena and dreams that reveal hidden truths. Uranus's  revolutionary energy illuminates the depths of their subconscious,  allowing them to access a wellspring of creativity and inspiration.
 * **Examples:**  Psychics and intuitives,  dream interpreters,  artists who channel their subconscious through their work,  individuals who experience profound spiritual awakenings.
 * **Core Dissonance:** The core dissonance lies in a tendency towards escapism and a detachment from reality,  as their focus on the unseen can lead to a disconnect from the practicalities of everyday life.
@@ -110,7 +110,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 55% -  Can clash with the Moon's  need for emotional security and stability,  leading to a tendency to be overwhelmed by psychic experiences or to use their intuition in a manipulative way. 
 * **Tilt:**  10% Dissonance Tilt
 
-**3. Mercury/Uranus (Yang Mercury, Leading Uranus):** **The Radical Thinker,  Shattering Paradigms** 
+**3. Mercury/Uranus (Yang Mercury, Uranus Leading):** **The Radical Thinker,  Shattering Paradigms** 
 * **Principle:** This archetype combines Uranus's revolutionary ideas with Mercury's gift for communication, becoming a powerful voice for change. They are quick-witted, intellectually agile, and able to articulate complex concepts in a way that is both engaging and thought-provoking. Uranus takes the lead, using Mercury's communication skills to disseminate its radical ideas and challenge conventional wisdom. 
 * **Examples:**  Tech journalists who explore cutting-edge ideas,  science fiction authors who imagine new possibilities,  public speakers who advocate for social change,  teachers who inspire critical thinking.
 * **Core Dissonance:** The core dissonance stems from a potential lack of practicality and a tendency to get lost in abstract thinking, losing touch with the need for grounded, real-world applications.
@@ -122,7 +122,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 15% -  Can clash with the need for groundedness and practicality,  leading to a tendency to get lost in abstract theories or impractical ideas. 
 * **Tilt:** 70% Harmony Tilt
 
-**Mercury/Uranus (Yin Mercury, Following Uranus):**  **The Innovative Strategist,  Mastermind of Change**
+**Mercury/Uranus (Yin Mercury, Uranus Following):**  **The Innovative Strategist,  Mastermind of Change**
 * **Principle:**  This archetype possesses a unique ability to synthesize information from diverse sources,  blending seemingly disparate ideas into a cohesive whole. They are drawn to uncovering hidden knowledge and exploring the mysteries of the mind,  often working behind the scenes to develop innovative solutions and strategies. Mercury's mental agility is guided by the revolutionary spirit of Uranus,  leading to unconventional breakthroughs and strategic transformations.  
 * **Examples:**  Researchers who connect the dots between different fields,  strategists who develop unconventional solutions,  writers who weave complex narratives,  therapists who use innovative techniques to address the root causes of psychological issues. 
 * **Core Dissonance:** The core dissonance lies in a potential for overthinking and a detachment from the emotional nuances of human interaction, leading to challenges in effectively conveying their ideas or understanding the needs of others.
@@ -134,7 +134,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Mercury's need for clarity and logic,  leading to a tendency to overcomplicate their ideas or become lost in abstract theories.
 * **Tilt:** 20% Harmony Tilt
 
-**Mercury/Uranus (Yang Mercury, Following Uranus): The  Tech Wizard,  Mastering Innovation**
+**Mercury/Uranus (Yang Mercury, Uranus Following): The  Tech Wizard,  Mastering Innovation**
 * **Principle:** This archetype is a master of technology and communication, blending Uranus's inventive genius with Mercury's adaptability and intellectual prowess. They are driven by a thirst for knowledge and a passion for exploring the cutting edge of innovation. Mercury leads the way,  with Uranus's disruptive energy fueling their technological breakthroughs and unconventional approaches to communication.
 * **Examples:**  Software developers who create groundbreaking applications,  coders who push the boundaries of programming,  tech entrepreneurs who revolutionize industries,  digital artists who explore new forms of expression. 
 * **Core Dissonance:**  This archetype's core dissonance lies in a potential detachment from the human element and a tendency to prioritize technological advancement over its ethical and social implications. 
@@ -146,7 +146,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Mercury's need for structure and logic, leading to a tendency to jump between projects without fully developing their ideas or to create technology that is overly complex or impractical.
 * **Tilt:**  40% Harmony Tilt
 
-**Mercury/Uranus (Yin Mercury, Leading Uranus): The Renegade Intellect, Deconstructing Reality**
+**Mercury/Uranus (Yin Mercury, Uranus Leading): The Renegade Intellect, Deconstructing Reality**
 * **Principle:**  This archetype possesses a sharp and unconventional mind that challenges established systems of thought and dismantles traditional paradigms. They are driven by a relentless pursuit of truth and a desire to expose hypocrisy and deceit. Uranus takes the lead,  using Mercury's  intellectual agility to deconstruct and analyze complex issues,  often revealing hidden agendas and challenging societal norms.
 * **Examples:**  Investigative journalists who expose corruption,  philosophers who challenge conventional wisdom,  critical thinkers who question authority,  activists who dismantle oppressive ideologies. 
 * **Core Dissonance:** The core dissonance of this archetype lies in their potential lack of emotional intelligence and empathy, leading to a disconnect from the human experience and a tendency towards intellectual superiority.
@@ -159,7 +159,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  10% Harmony Tilt
 
 
-**4. Venus/Uranus (Yang Venus, Leading Uranus):** **The Revolutionary Lover, Redefining Relationships** 
+**4. Venus/Uranus (Yang Venus, Uranus Leading):** **The Revolutionary Lover, Redefining Relationships** 
 * **Principle:** This archetype challenges traditional notions of love, beauty, and relationships. They lead with Venus's charm and grace, inspiring others to embrace a more authentic and liberating approach to love.  Uranus's influence pushes them to break free from restrictive relationship patterns and create their own rules for love and partnership. 
 * **Examples:**  Polyamorous relationship advocates,  artists and musicians who express their unconventionality through their relationships,  individuals who challenge societal norms around love and commitment.
 * **Core Dissonance:**  This archetype may struggle with commitment and emotional vulnerability, leading to a fear of intimacy and a tendency to sabotage relationships when they feel threatened.
@@ -171,7 +171,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Venus's  need for harmony and stability,  leading to a tendency to disrupt relationships and seek constant change.  
 * **Tilt:** 40% Harmony Tilt
 
-**Venus/Uranus (Yin Venus, Following Uranus):** **The Unconventional Muse, Inspiring Creative Expression**
+**Venus/Uranus (Yin Venus, Uranus Following):** **The Unconventional Muse, Inspiring Creative Expression**
 * **Principle:** This archetype embodies the magnetic allure of unconventional beauty and the transformative power of love. They inspire others through their unique aesthetic sensibilities and their ability to awaken a deeper appreciation for the beauty in the unconventional. Uranus's influence adds a spark of originality and rebellion to their artistic expression,  challenging traditional notions of beauty and inspiring a more inclusive and diverse aesthetic.
 * **Examples:**  Avant-garde fashion designers,  artists who explore themes of love and rebellion,  musicians who create unique and innovative sounds,  individuals who express their individuality through their personal style.
 * **Core Dissonance:** Their core dissonance lies in the potential for self-absorption and a tendency to prioritize their own creative expression over genuine connection with others, leading to a sense of isolation and a lack of fulfillment in their relationships. 
@@ -183,7 +183,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Venus's  need for harmony and balance,  leading to a tendency to disrupt traditional aesthetics and create art that is unsettling or provocative. 
 * **Tilt:**  20% Harmony Tilt
 
-**Venus/Uranus (Yang Venus, Following Uranus):  The Free Spirit, Embracing Unconventional Love**
+**Venus/Uranus (Yang Venus, Uranus Following):  The Free Spirit, Embracing Unconventional Love**
 * **Principle:** This archetype challenges traditional relationship models, embracing a more fluid and unconventional approach to love and partnerships. They prioritize freedom and authenticity in their relationships, seeking partners who share their values and respect their need for independence. Uranus's influence amplifies their desire for change and novelty, while Venus leads the way in seeking connection and beauty.
 * **Examples:**  Individuals who embrace polyamory or open relationships,  those who are drawn to partners from different cultures or backgrounds,  artists and creatives who express their unconventional love through their work.
 * **Core Dissonance:**  This archetype may struggle with finding a balance between their need for freedom and the desire for commitment and stability in relationships, potentially leading to a pattern of fleeting connections and a fear of intimacy. 
@@ -195,7 +195,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% - Can clash with Venus's  need for harmony and stability,  leading to a tendency to disrupt relationships and create unnecessary drama. 
 * **Tilt:** 20% Harmony Tilt
 
-**Venus/Uranus (Yin Venus, Leading Uranus): The Artistic Alchemist, Transforming Beauty**
+**Venus/Uranus (Yin Venus, Uranus Leading): The Artistic Alchemist, Transforming Beauty**
 * **Principle:** This archetype possesses a unique ability to transform conventional notions of beauty through a rebellious and innovative artistic expression. They challenge traditional aesthetics,  embracing the unconventional and finding beauty in the unexpected. Uranus's disruptive energy adds a touch of the avant-garde to their creative endeavors,  inspiring a shift in perspectives and challenging societal norms. 
 * **Examples:**  Fashion designers who create avant-garde clothing,  musicians who blend genres and experiment with sound,  artists who use unconventional materials and techniques,  architects who design futuristic buildings. 
 * **Core Dissonance:**  This archetype may struggle to find an audience for their unconventional aesthetics and may face criticism and rejection from those who are more traditional in their tastes,  leading to feelings of isolation and a sense of being misunderstood.
@@ -208,7 +208,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  Balanced 
 
 
-**5. Mars/Uranus (Yang Mars, Leading Uranus):  The Fearless Warrior, Champion of Change** 
+**5. Mars/Uranus (Yang Mars, Uranus Leading):  The Fearless Warrior, Champion of Change** 
 * **Principle:** This archetype embodies a fierce and independent spirit, driven by a passionate desire to fight for justice and create a better world. They are fearless in their pursuit of change,  challenging oppressive systems and advocating for the marginalized.  Mars leads the charge, its assertive energy amplified by Uranus's revolutionary spirit.  
 * **Examples:**  Revolutionaries who fight for social justice,  activists who challenge injustice,  athletes who break records and push boundaries,  entrepreneurs who disrupt industries.
 * **Core Dissonance:**  Their core dissonance lies in the potential for recklessness and impulsivity, leading to actions with unintended consequences and a tendency to act before thinking things through.
@@ -220,7 +220,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with the need for strategic planning and control,  leading to impulsive actions and unintended consequences. 
 * **Tilt:** 60% Harmony Tilt
 
-**Mars/Uranus (Yin Mars, Following Uranus):** **The Innovative Strategist,  Mastering Unconventional Tactics** 
+**Mars/Uranus (Yin Mars, Uranus Following):** **The Innovative Strategist,  Mastering Unconventional Tactics** 
 * **Principle:**  This archetype channels their passionate energy and drive through the lens of Uranian innovation,  becoming a master of applying unconventional strategies and tactics.  They are resourceful,  adaptable,  and always willing to experiment with new approaches,  often finding success where others have failed.  Mars'  assertive energy is guided by Uranus'  innovative spirit,  leading to a dynamic and strategic approach to change. 
 * **Examples:**  Military strategists who revolutionize warfare,  athletes who use unconventional training methods,  inventors who find creative solutions to practical problems.  
 * **Core Dissonance:**  The core dissonance lies in their potential for ruthlessness and a tendency to prioritize winning above all else,  leading to a disregard for ethical considerations and a willingness to use manipulative tactics to achieve their goals.
@@ -232,7 +232,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  60% -  Can clash with Mars' need for direct action and a straightforward approach,  leading to a tendency to overcomplicate strategies or become entangled in unnecessary conflicts.
 * **Tilt:** 20% Dissonance Tilt
 
-**Mars/Uranus (Yang Mars, Following Uranus): The Courageous Innovator,  Forging New Paths**
+**Mars/Uranus (Yang Mars, Uranus Following): The Courageous Innovator,  Forging New Paths**
 * **Principle:**  This archetype channels Uranus's  inventive spirit through Mars'  bold action,  becoming a pioneer in their field.  They are driven by a passion to break new ground and challenge the limits of what's possible,  using their energy and determination to bring their innovative ideas to life. Mars leads the way,  with Uranus's  disruptive energy pushing them to take risks and embrace unconventional approaches. 
 * **Examples:**  Entrepreneurs who disrupt industries with their innovative products or services,  athletes who develop new training techniques or compete in unconventional sports,  artists who experiment with new mediums and push the boundaries of creativity. 
 * **Core Dissonance:** This archetype's core dissonance lies in a tendency towards impulsiveness and recklessness, leading to a disregard for safety and a potential for burnout or injury. 
@@ -244,7 +244,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Mars'  need for direct action and straightforwardness,  leading to a tendency to overcomplicate their plans or become frustrated by obstacles.
 * **Tilt:**  40% Harmony Tilt
 
-**Mars/Uranus (Yin Mars, Leading Uranus):  The  Fearless Defender,  Protecting the Vulnerable**
+**Mars/Uranus (Yin Mars, Uranus Leading):  The  Fearless Defender,  Protecting the Vulnerable**
 * **Principle:**  This archetype is a fierce protector of the underdog,  using their strength and courage to fight for those who are unable to fight for themselves. Uranus's influence inspires them to challenge oppressive systems and to champion the rights of the marginalized,  while Mars fuels their determination and willingness to take action. They are driven by a deep sense of compassion and a burning desire for justice. 
 * **Examples:**  Human rights activists,  whistleblowers who expose wrongdoing,  individuals who stand up against bullies and injustice,  lawyers who defend the rights of the oppressed. 
 * **Core Dissonance:** Their core dissonance lies in their tendency towards anger and aggression, which can lead to destructive behaviors and ultimately hinder their ability to create lasting change. 
@@ -257,7 +257,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 10% Harmony Tilt
 
 
-**6. Jupiter/Uranus (Yang Jupiter, Leading Uranus):  The Expansive Visionary,  Broadcasting Truth**
+**6. Jupiter/Uranus (Yang Jupiter, Uranus Leading):  The Expansive Visionary,  Broadcasting Truth**
 * **Principle:**  This archetype combines Uranus's unconventional thinking with Jupiter's expansive vision,  creating a powerful force for philosophical exploration and social change.  Jupiter's optimism and enthusiasm amplify Uranus's revolutionary ideas,  inspiring others to embrace a more expansive and inclusive worldview.
 * **Examples:**  Philosophers who challenge traditional thought,  spiritual teachers who spread new teachings,  humanitarian leaders who advocate for global justice,  explorers of new cultures and philosophies. 
 * **Core Dissonance:**  The core dissonance of this archetype lies in their potential for dogmatism and self-righteousness, as their unwavering belief in their own vision can lead to a lack of tolerance for other perspectives and a tendency to preach their beliefs rather than engage in open dialogue. 
@@ -269,7 +269,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 25% -  Can clash with the need for focus and discipline,  leading to a tendency to scatter their energy and lack follow-through on their grand ideas.
 * **Tilt:**  50% Harmony Tilt
 
-**Jupiter/Uranus (Yin Jupiter, Following Uranus): The  Unconventional Seeker,  Exploring New Frontiers** 
+**Jupiter/Uranus (Yin Jupiter, Uranus Following): The  Unconventional Seeker,  Exploring New Frontiers** 
 * **Principle:**  This archetype embodies a  restless spirit,  driven by a thirst for knowledge and experience.  They follow Uranus's lead on a journey of discovery,  seeking to expand their horizons and challenge the limits of their own beliefs. Jupiter's  optimism and enthusiasm for life are amplified by Uranus'  unconventional approach,  leading to a unique blend of intellectual curiosity and spiritual exploration.
 * **Examples:**  World travelers who immerse themselves in different cultures,  students of esoteric knowledge,  spiritual seekers who embrace unconventional paths,  artists who push the boundaries of creativity. 
 * **Core Dissonance:** The core dissonance lies in the potential for recklessness and a lack of grounding, as their pursuit of new experiences and knowledge can lead to scattered energy and a lack of depth in their understanding. 
@@ -281,7 +281,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  35% -  Can clash with Jupiter's  need for structure and tradition,  leading to a tendency to reject authority and disregard established systems. 
 * **Tilt:**  30% Harmony Tilt
 
-**Jupiter/Uranus (Yang Jupiter, Following Uranus): The Global Revolutionary, Expanding Consciousness**
+**Jupiter/Uranus (Yang Jupiter, Uranus Following): The Global Revolutionary, Expanding Consciousness**
 * **Principle:** This archetype embodies a boundless enthusiasm for social change and a visionary perspective on humanity's potential for growth and evolution. They are driven by Jupiter's expansive optimism and Uranus's revolutionary spirit, seeking to create a more just and equitable world through education, social reform, and a celebration of diversity. They follow Jupiter's lead, with Uranus's disruptive energy amplifying their message of hope and progress.
 * **Examples:**  Humanitarian leaders,  global activists,  teachers who inspire a love of learning,  artists who promote cross-cultural understanding.
 * **Core Dissonance:** The core dissonance lies in a potential lack of practicality and a tendency towards unrealistic idealism, leading to grand visions that are difficult to manifest in the real world. 
@@ -293,7 +293,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Jupiter's  need for structure and tradition,  leading to a tendency to disregard rules and create chaos in their pursuit of a better world.  
 * **Tilt:** 40% Harmony Tilt
 
-**Jupiter/Uranus (Yin Jupiter, Leading Uranus):  The Philosophical Rebel, Seeking Deeper Truths**
+**Jupiter/Uranus (Yin Jupiter, Uranus Leading):  The Philosophical Rebel, Seeking Deeper Truths**
 * **Principle:** This archetype combines Uranus's  unconventional thinking with Jupiter's  thirst for knowledge,  leading a quest for deeper meaning and understanding beyond traditional beliefs and philosophies.  They are driven by a desire to challenge dogma and explore alternative perspectives,  expanding their worldview through intellectual inquiry and spiritual exploration.  Uranus's  influence pushes them to question authority and embrace a more individualistic approach to truth.
 * **Examples:**  Philosophers who explore unconventional ideas,  spiritual seekers who challenge religious dogma,  truth-seekers who question established narratives,  teachers who inspire critical thinking and open-mindedness.
 * **Core Dissonance:** This archetype may struggle with dogmatism and a tendency to become overly attached to their own beliefs, leading to intolerance of other perspectives and a resistance to new information that challenges their worldview. 
@@ -306,7 +306,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  20% Harmony Tilt
 
 
-**7. Saturn/Uranus (Yang Saturn, Leading Uranus): The Disciplined Revolutionary, Building a Better Future** 
+**7. Saturn/Uranus (Yang Saturn, Uranus Leading): The Disciplined Revolutionary, Building a Better Future** 
 * **Principle:** This archetype blends Uranus's rebellious spirit with Saturn's disciplined approach,  leading the charge for responsible and sustainable social change.  They are practical visionaries who understand that lasting transformation requires both innovation and structure.  Saturn's grounding influence helps channel Uranus's disruptive energy into concrete action,  building a more equitable and sustainable future. 
 * **Examples:**  Social reformers,  environmental activists,  ethical entrepreneurs,  politicians who advocate for progressive policies.  
 * **Core Dissonance:** The core dissonance lies in a potential for rigidity and a struggle to embrace flexibility and spontaneity, as their focus on structure and control can hinder their ability to adapt to unforeseen circumstances. 
@@ -318,7 +318,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Uranus'  need for freedom and spontaneity,  leading to a tendency to become overly cautious and resistant to change. 
 * **Tilt:**  40% Harmony Tilt
 
-**Saturn/Uranus (Yin Saturn, Following Uranus):  The Unconventional Builder,  Redefining Structures**
+**Saturn/Uranus (Yin Saturn, Uranus Following):  The Unconventional Builder,  Redefining Structures**
 * **Principle:** This archetype embraces Uranus's unconventional spirit while honoring Saturn's need for structure and order,  becoming a master of creating innovative systems and structures that support individual freedom and collective well-being. They are driven by a desire to challenge the limitations of traditional paradigms while also recognizing the importance of stability and responsibility. Saturn's grounding influence provides a solid foundation for Uranus's revolutionary vision,  leading to sustainable and lasting change. 
 * **Examples:**  Architects who design eco-friendly and sustainable buildings,  entrepreneurs who create innovative businesses that promote social good,  community leaders who develop alternative models of governance.
 * **Core Dissonance:**  Their core dissonance lies in the potential for becoming overly controlling and rigid in their approach,  as their desire to create order and structure can lead to a resistance to spontaneity and a fear of the unknown.
@@ -330,7 +330,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  45% -  Can clash with Saturn's need for tradition and stability,  leading to a tendency to disrupt systems without a clear understanding of the consequences. 
 * **Tilt:**  10% Harmony Tilt
 
-**Saturn/Uranus (Yang Saturn, Following Uranus): The Pragmatic Visionary,  Building for the Future**
+**Saturn/Uranus (Yang Saturn, Uranus Following): The Pragmatic Visionary,  Building for the Future**
 * **Principle:**  This archetype combines a strong sense of duty and responsibility with a desire to create a more equitable and just world.  They are practical idealists who recognize that lasting change requires a disciplined approach and a long-term vision.  Saturn leads the way,  providing a structure for Uranus's  revolutionary ideas to flourish and manifest in the real world.  
 * **Examples:**  Politicians who implement progressive policies,  social reformers who work within existing systems to create change,  architects who design sustainable and innovative structures,  entrepreneurs who build ethical and socially responsible businesses.  
 * **Core Dissonance:** The core dissonance stems from their potential for becoming stuck in a rigid and conventional approach,  stifling innovation and resisting the unpredictable nature of Uranian change.
@@ -342,7 +342,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Saturn's  need for tradition and control,  leading to a tendency to resist innovation and unconventional approaches.
 * **Tilt:**  20% Harmony Tilt
 
-**Saturn/Uranus (Yin Saturn, Leading Uranus):  The Unconventional Traditionalist,  Challenging the Past** 
+**Saturn/Uranus (Yin Saturn, Uranus Leading):  The Unconventional Traditionalist,  Challenging the Past** 
 * **Principle:**  This archetype embodies a unique blend of respect for tradition and a desire for change.  They challenge outdated structures and beliefs,  seeking to create a more equitable and just future while honoring the wisdom of the past.  Saturn leads the way,  providing a grounding influence that allows Uranus's  revolutionary energy to be channeled in a constructive and sustainable manner.  
 * **Examples:**  Historians who challenge traditional interpretations of history,  artists who use traditional mediums to express unconventional ideas,  spiritual leaders who integrate ancient wisdom with modern insights,  individuals who honor their heritage while embracing progress.
 * **Core Dissonance:**  This archetype can struggle with integrating their desire for change with their respect for tradition,  leading to internal conflict and a sense of being caught between two worlds. 
@@ -355,7 +355,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 10% Dissonance Tilt
 
 
-**8. Neptune/Uranus (Yang Neptune, Leading Uranus):**  **The Mystic Visionary,  Awakening the Dream**
+**8. Neptune/Uranus (Yang Neptune, Uranus Leading):**  **The Mystic Visionary,  Awakening the Dream**
 * **Principle:** This archetype embodies a powerful blend of Uranian innovation and Neptunian inspiration. They are dreamers and visionaries who see beyond the veil of ordinary reality, tapping into the collective unconscious to channel their creativity and inspire a more compassionate and interconnected world. Neptune takes the lead, guiding Uranus's revolutionary energy towards a spiritual awakening. 
 * **Examples:** Visionary artists, musicians creating transcendent music, spiritual teachers who inspire a connection to the Divine, healers who work with subtle energies. 
 * **Core Dissonance:** This archetype can struggle with distinguishing between inspiration and delusion, potentially becoming lost in fantasy or promoting unrealistic ideals.
@@ -367,7 +367,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 30% -  Can clash with Neptune's need for faith and surrender, leading to a tendency to intellectualize spiritual experiences or reject traditional beliefs. 
 * **Tilt:** 40% Harmony Tilt
 
-**Neptune/Uranus (Yin Neptune, Following Uranus):**  **The  Chaotic Dreamer,  Navigating the Unseen** 
+**Neptune/Uranus (Yin Neptune, Uranus Following):**  **The  Chaotic Dreamer,  Navigating the Unseen** 
 * **Principle:** This archetype is deeply intuitive and sensitive, often feeling overwhelmed by the intensity of the world around them.  They follow Uranus's lead,  seeking liberation from the constraints of reality through immersion in the realm of imagination,  dreams,  and spiritual exploration.  Their experiences can be both profound and unsettling,  as they navigate the chaotic waters of the unconscious.
 * **Examples:**  Individuals struggling with mental health challenges,  artists who explore the dark side of the psyche,  those drawn to occult and mystical practices,  those who feel alienated from conventional society. 
 * **Core Dissonance:** This archetype is prone to escapism and delusion, potentially losing touch with reality and struggling to differentiate between their inner world and the external world.
@@ -379,7 +379,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  55% -  Can clash with the need for clarity and stability,  leading to a tendency to become overwhelmed by emotional chaos and lose touch with reality. 
 * **Tilt:**  10% Dissonance Tilt
 
-**Neptune/Uranus (Yang Neptune, Following Uranus):** **The Inspired Revolutionary,  Dissolving Boundaries**
+**Neptune/Uranus (Yang Neptune, Uranus Following):** **The Inspired Revolutionary,  Dissolving Boundaries**
 * **Principle:** This archetype is a visionary who seeks to dismantle outdated structures and create a more compassionate and interconnected world,  inspired by a profound connection to the Divine and a deep empathy for humanity. They follow Neptune's  lead,  using Uranus's disruptive energy to break down barriers and awaken a collective consciousness.  Their vision is often expressed through art,  music,  or spiritual teachings that inspire a sense of wonder and possibility.
 * **Examples:**  Spiritual leaders who advocate for social justice,  artists who use their work to promote peace and understanding,  musicians who create music that transcends cultural boundaries.
 * **Core Dissonance:** This archetype may struggle with maintaining boundaries and can become susceptible to deception or manipulation, especially when their idealism clashes with the harsh realities of the world.
@@ -391,7 +391,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Neptune's  need for faith and surrender,  leading to a tendency to become overly critical of traditional beliefs and institutions. 
 * **Tilt:**  20% Harmony Tilt
 
-**Neptune/Uranus (Yin Neptune, Leading Uranus): The  Psychic Artist,  Channeling the Unseen**
+**Neptune/Uranus (Yin Neptune, Uranus Leading): The  Psychic Artist,  Channeling the Unseen**
 * **Principle:** This archetype is a conduit for the unseen,  channeling the energies of the collective unconscious and the spiritual realm through their creative expression.  Neptune's  intuitive and imaginative powers are amplified by Uranus's  unconventional spirit,  leading to a unique blend of artistic vision and psychic awareness. Their art is often ethereal and dreamlike,  evoking a sense of mystery and transcendence.
 * **Examples:**  Surrealist painters,  visionary musicians,  writers of fantasy and science fiction,  dancers who embody archetypal energies.
 * **Core Dissonance:**  This archetype can struggle with distinguishing between inspiration and delusion, potentially becoming lost in their own inner world and detaching from reality.
@@ -404,7 +404,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  20% Dissonance Tilt
 
 
-**9. Pluto/Uranus (Yang Pluto, Leading Uranus):  The Transformative Rebel,  Dismantling Power** 
+**9. Pluto/Uranus (Yang Pluto, Uranus Leading):  The Transformative Rebel,  Dismantling Power** 
 * **Principle:** This archetype embodies a powerful force for radical change,  driven by a deep desire to expose corruption and dismantle oppressive systems. Pluto's intensity and transformational power are amplified by Uranus's revolutionary spirit,  creating a catalyst for profound shifts in power dynamics and social structures. 
 * **Examples:**  Revolutionaries who overthrow oppressive regimes,  whistleblowers who expose corporate or government corruption,  activists who challenge systemic injustice,  individuals who break free from toxic and abusive relationships.
 * **Core Dissonance:** The potential for ruthlessness and destructiveness in their pursuit of change is a core dissonance for this archetype. The intensity of their convictions can lead them to disregard the consequences of their actions and to prioritize their goals over the well-being of others.
@@ -416,7 +416,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with the need for restraint and compassion,  leading to a tendency to be ruthless and destructive in their pursuit of change. 
 * **Tilt:**  40% Harmony Tilt
 
-**Pluto/Uranus (Yin Pluto, Following Uranus):  The  Shadow Worker,  Revealing Hidden Truths**
+**Pluto/Uranus (Yin Pluto, Uranus Following):  The  Shadow Worker,  Revealing Hidden Truths**
 * **Principle:** This archetype delves into the depths of the unconscious,  seeking to understand the hidden motivations and power dynamics that shape human experience. They follow Uranus's  lead,  using Pluto's  transformative energy to expose shadow material and bring light to the darkest corners of the psyche. They are driven by a desire to uncover truth and to heal the wounds of the past. 
 * **Examples:**  Depth psychologists,  shadow work facilitators,  investigative journalists who uncover hidden agendas,  artists who explore the dark side of human nature.
 * **Core Dissonance:**  The core dissonance lies in the potential for becoming overwhelmed by the darkness they uncover,  leading to a loss of hope and a descent into despair or cynicism. 
@@ -428,7 +428,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Pluto's  need for control and depth,  leading to a tendency to resist change or to become overwhelmed by the intensity of the unconscious realm. 
 * **Tilt:** 20% Harmony Tilt
 
-**Pluto/Uranus (Yang Pluto, Following Uranus): The  Agent of Disruption,  Reclaiming Power**
+**Pluto/Uranus (Yang Pluto, Uranus Following): The  Agent of Disruption,  Reclaiming Power**
 * **Principle:**  This archetype embodies a potent blend of power and rebellion,  challenging established structures and dismantling systems of oppression. They follow Pluto's  lead,  using Uranus's  disruptive energy to break free from limitations and create a more just and equitable world. Their actions are often radical and transformative,  aimed at exposing corruption and empowering the marginalized. 
 * **Examples:**  Revolutionaries who fight for social justice,  activists who challenge corporate greed,  individuals who break free from abusive relationships and reclaim their power. 
 * **Core Dissonance:** This archetype's core dissonance stems from a potential for becoming consumed by power struggles and seeking to dominate others, losing sight of their original intention to create positive change. 
@@ -440,7 +440,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  35% -  Can clash with Pluto's  need for control and strategy,  leading to impulsive actions and unintended consequences.
 * **Tilt:**  30% Harmony Tilt
 
-**Pluto/Uranus (Yin Pluto, Leading Uranus):  The  Shadow Alchemist,  Transforming Darkness**
+**Pluto/Uranus (Yin Pluto, Uranus Leading):  The  Shadow Alchemist,  Transforming Darkness**
 * **Principle:**  This archetype embodies a profound connection to the underworld of the psyche,  mastering the transformative power of darkness and channeling it towards healing and liberation. Pluto's  intense energy guides Uranus's  rebellious spirit  towards a deep exploration of the shadow self,  leading to a profound understanding of the human condition.  
 * **Examples:**  Depth psychologists,  spiritual healers who work with shadow material,  artists who explore the dark side of human nature,  individuals who have undergone profound personal transformation through confronting their own demons.
 * **Core Dissonance:** This archetype can get lost in the depths of the unconscious, leading to a sense of isolation, a fascination with darkness, and a struggle to integrate their shadow self into a balanced whole.
@@ -453,7 +453,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  Balanced
 
 
-**10. Orcus/Uranus (Yang Orcus, Leading Uranus):**  **The Karmic Liberator,  Dismantling Injustice** 
+**10. Orcus/Uranus (Yang Orcus, Uranus Leading):**  **The Karmic Liberator,  Dismantling Injustice** 
 * **Principle:** This archetype combines a profound sense of justice and a dedication to uncovering hidden truths with a revolutionary spirit. They are driven by a deep-seated need to expose corruption and hold those in power accountable, challenging the status quo and seeking to break free from oppressive systems. Orcus, representing the karmic consequences of actions, takes the lead, while Uranus's disruptive energy fuels their pursuit of justice.
 * **Examples:**  Whistleblowers who expose wrongdoing,  investigative journalists who uncover hidden agendas,  activists fighting against corruption and abuse of power,  individuals who challenge societal norms and fight for a more equitable world.
 * **Core Dissonance:** This archetype can struggle with a tendency towards rigidity and a black-and-white perspective, potentially becoming overly focused on punishment and lacking compassion for those who have made mistakes.
@@ -465,7 +465,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with the need for forgiveness and compassion,  leading to a tendency to hold on to anger and seek retribution.
 * **Tilt:** 60% Harmony Tilt
 
-**Orcus/Uranus (Yin Orcus, Following Uranus):  The  Shadow Alchemist,  Transforming Darkness** 
+**Orcus/Uranus (Yin Orcus, Uranus Following):  The  Shadow Alchemist,  Transforming Darkness** 
 * **Principle:** This archetype is drawn to the depths of the human psyche,  seeking to understand the shadow side of ourselves and society.  They follow Uranus's  lead,  using Orcus's  energy to explore the underworld of the unconscious and to confront their own inner demons.  Their journey through darkness leads to a profound understanding of the human condition and the transformative power of facing our shadows.
 * **Examples:**  Depth psychologists,  shadow work practitioners,  artists who explore the dark side of human nature,  individuals who have undergone deep personal transformation through confronting their own trauma and pain.
 * **Core Dissonance:** The core dissonance lies in the potential for becoming consumed by the darkness they explore, leading to a loss of hope, a sense of nihilism, and a withdrawal from the world.
@@ -477,7 +477,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Orcus'  tendency towards judgment and punishment,  leading to a fear of facing their own shadow side or a tendency to project their darkness onto others.
 * **Tilt:** 20% Harmony Tilt
 
-**Orcus/Uranus (Yang Orcus, Following Uranus): The  Truth Warrior,  Exposing Hidden Agendas**
+**Orcus/Uranus (Yang Orcus, Uranus Following): The  Truth Warrior,  Exposing Hidden Agendas**
 * **Principle:** This archetype is driven by a relentless pursuit of truth and justice, challenging authority and exposing corruption with a fierce determination. They follow Orcus's lead, using Uranus's disruptive energy to break through barriers and dismantle oppressive systems. Their actions are motivated by a deep sense of integrity and a desire to create a more transparent and equitable world.
 * **Examples:**  Investigative journalists,  whistleblowers,  activists fighting against corporate greed and government corruption, individuals who speak truth to power.
 * **Core Dissonance:** The core dissonance lies in a tendency towards a rigid and unforgiving approach to justice, potentially leading to a lack of compassion and a desire for retribution. 
@@ -489,7 +489,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Orcus'  tendency towards rigidity and judgment, leading to a black-and-white perspective that hinders their ability to see the complexities of situations.
 * **Tilt:** 40% Harmony Tilt
 
-**Orcus/Uranus (Yin Orcus, Leading Uranus):  The  Karmic Healer,  Releasing the Past**
+**Orcus/Uranus (Yin Orcus, Uranus Leading):  The  Karmic Healer,  Releasing the Past**
 * **Principle:**  This archetype possesses a profound understanding of karma and the interconnectedness of all things.  They are driven by a desire to heal the wounds of the past,  both personal and collective,  and to break free from limiting karmic patterns. Orcus,  representing the underworld and the forces of fate,  takes the lead,  while Uranus's  revolutionary energy inspires them to challenge outdated beliefs and embrace a more evolved perspective. 
 * **Examples:**  Past life regression therapists,  shamans who work with ancestral healing,  individuals who are drawn to exploring their family history and uncovering hidden traumas.
 * **Core Dissonance:** This archetype can struggle with a tendency towards fatalism and a belief that the past determines the future, leading to a sense of powerlessness and a reluctance to embrace change. 
@@ -502,7 +502,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 10% Harmony Tilt 
 
 
-**11. Ixion/Uranus (Yang Ixion, Leading Uranus):** **The Truth Warrior, Defying Authority** 
+**11. Ixion/Uranus (Yang Ixion, Uranus Leading):** **The Truth Warrior, Defying Authority** 
 * **Principle:**  This archetype embodies a rebellious spirit driven by a quest for truth and justice, even when it means challenging those in power. They are unafraid to confront authority, expose hypocrisy, and fight for a better world, often facing consequences for their unwavering pursuit of what they believe is right. Ixion, embodying the archetype of the wounded rebel seeking redemption, takes the lead, fueled by a fierce need for justice and a relentless desire to expose the truth. Uranus's disruptive energy amplifies their impact, leading to unexpected consequences and dismantling corrupt systems. 
 * **Examples:**  Whistleblowers,  investigative journalists,  activists who challenge corrupt systems,  individuals who speak truth to power. 
 * **Core Dissonance:**  This archetype can become overly fixated on fighting against injustice, potentially losing sight of their own well-being and becoming embroiled in destructive conflicts.
@@ -514,7 +514,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 15% - Can clash with the need for diplomacy and compromise, leading to a confrontational style that creates unnecessary conflict.
 * **Tilt:** 70% Harmony Tilt
 
-**Ixion/Uranus (Yin Ixion, Following Uranus):  The  Karmic Avenger,  Challenging Injustice**
+**Ixion/Uranus (Yin Ixion, Uranus Following):  The  Karmic Avenger,  Challenging Injustice**
 * **Principle:**  This archetype carries a deep sense of injustice,  having experienced betrayal and suffering that fueled their desire to fight for those who have been wronged. They follow Uranus's lead,  channeling Ixion's  anger and resentment into a revolutionary force that seeks to dismantle oppressive systems and expose the truth. Their actions are often driven by a need for vindication and a desire to break free from the cycle of pain and suffering.
 * **Examples:**  Individuals who have experienced trauma and now fight for the rights of other survivors,  activists who challenge systems that perpetuate inequality and injustice,  artists who use their work to expose the dark side of society.
 * **Core Dissonance:**  The core dissonance lies in the potential for becoming consumed by a desire for revenge, perpetuating a cycle of violence and hindering their own healing journey.
@@ -526,7 +526,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with Ixion's  tendency towards vengeance and a need for retribution,  leading to a destructive approach to change.
 * **Tilt:** 20% Harmony Tilt
 
-**Ixion/Uranus (Yang Ixion, Following Uranus): The  Renegade Reformer,  Defying Expectations**
+**Ixion/Uranus (Yang Ixion, Uranus Following): The  Renegade Reformer,  Defying Expectations**
 * **Principle:**  This archetype combines a rebellious spirit with a strong sense of justice,  challenging traditional structures and seeking to create a more equitable world.  They follow Ixion's lead,  using Uranus's  disruptive energy to break free from limiting beliefs and expectations,  often defying societal norms and paving their own unique path. Their actions are often seen as radical,  but they are driven by a deep desire for authenticity and a belief in a better future.
 * **Examples:**  Entrepreneurs who challenge traditional business models,  artists who break the rules of their craft,  activists who use unconventional tactics to promote social change,  individuals who reject societal expectations and live life on their own terms.
 * **Core Dissonance:** The core dissonance lies in a tendency towards isolation and alienation, as their unconventional methods and unwavering pursuit of their own vision can lead to conflicts and a disconnect from the collective. 
@@ -538,7 +538,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  35% - Can clash with Ixion's  tendency towards defiance and a need to break the rules,  leading to a tendency to reject all forms of authority and structure. 
 * **Tilt:** 30% Harmony Tilt
 
-**Ixion/Uranus (Yin Ixion, Leading Uranus): The Shadow Warrior, Confronting the Past** 
+**Ixion/Uranus (Yin Ixion, Uranus Leading): The Shadow Warrior, Confronting the Past** 
 * **Principle:**  This archetype is driven by a need to confront the darkness of the past,  both personal and collective. They are drawn to uncovering hidden truths,  exposing injustices,  and breaking free from the karmic cycles that perpetuate suffering. Ixion's  wounded spirit,  fueled by Uranus's  revolutionary energy,  makes them a powerful force for change,  challenging authority and demanding accountability. 
 * **Examples:**  Investigative journalists who expose war crimes or human rights violations,  activists who fight for reparations for past injustices,  therapists who specialize in trauma and abuse recovery,  individuals who confront their own shadow self and work to heal from past wounds.
 * **Core Dissonance:** The core dissonance of this archetype lies in the danger of becoming consumed by the darkness they confront,  leading to a cycle of vengeance, bitterness, and a loss of hope.
@@ -551,7 +551,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:**  10% Harmony Tilt
 
 
-**12. Chiron/Uranus (Yang Chiron, Leading Uranus):  The Wounded Healer,  Awakening Compassion**
+**12. Chiron/Uranus (Yang Chiron, Uranus Leading):  The Wounded Healer,  Awakening Compassion**
 * **Principle:**  This archetype embodies the transformative power of healing through shared vulnerability. They use their own wounds and experiences of pain to guide others towards wholeness,  challenging societal norms around suffering and promoting a more compassionate and accepting world.  Chiron leads the way,  its wisdom and healing energy amplified by Uranus's  revolutionary spirit.
 * **Examples:**  Therapists specializing in trauma,  activists who advocate for the rights of the marginalized,  artists who explore themes of pain and healing,  individuals who use their personal struggles to inspire others.
 * **Core Dissonance:** The potential for burnout and compassion fatigue is a core dissonance. Their deep empathy and willingness to take on the pain of others can lead to exhaustion and a depletion of their own vital energy.
@@ -563,7 +563,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with Uranus'  tendency towards detachment and emotional distance,  leading to a resistance to facing their own pain.
 * **Tilt:**  60% Harmony Tilt
 
-**Chiron/Uranus (Yin Chiron, Following Uranus): The  Rebellious Healer,  Breaking the Chains of Trauma**
+**Chiron/Uranus (Yin Chiron, Uranus Following): The  Rebellious Healer,  Breaking the Chains of Trauma**
 * **Principle:**  This archetype embodies a rebellious spirit that challenges societal norms and expectations around healing and wholeness. They have often experienced profound wounds or trauma that fueled their desire to break free from limiting beliefs and create a more authentic and compassionate world.  Uranus leads the charge,  its revolutionary energy inspiring Chiron's  healing process and empowering them to challenge the status quo.
 * **Examples:**  Individuals who have overcome addiction or abuse and now advocate for others,  activists who fight for the rights of the marginalized and wounded,  artists who use their creativity to express their pain and healing journey. 
 * **Core Dissonance:**  The core dissonance lies in the potential for becoming fixated on their past wounds and the injustices they have faced, leading to a cycle of anger, resentment, and a struggle to move forward.
@@ -575,7 +575,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  35% -  Can clash with Chiron's  need for vulnerability and compassion,  leading to a tendency to intellectualize their pain or avoid emotional intimacy. 
 * **Tilt:** 30% Harmony Tilt
 
-**Chiron/Uranus (Yang Chiron, Following Uranus): The Catalyst for Collective Healing, Inspiring Wholeness**
+**Chiron/Uranus (Yang Chiron, Uranus Following): The Catalyst for Collective Healing, Inspiring Wholeness**
 * **Principle:** This archetype embodies a profound understanding of the interconnectedness of individual and collective healing, using their own experiences of pain and transformation to inspire others to embrace their vulnerabilities and seek wholeness. They follow Chiron's lead, with Uranus's revolutionary energy amplifying their message of compassion and acceptance,  challenging societal norms around suffering and promoting a more inclusive and healing-centered approach to life.
 * **Examples:**  Spiritual teachers who emphasize the importance of shadow work and self-acceptance,  community leaders who create spaces for healing and dialogue,  artists who use their work to express the beauty and resilience of the human spirit in the face of adversity.
 * **Core Dissonance:**  The core dissonance for this archetype lies in the risk of overextending themselves and neglecting their own needs, leading to burnout,  compassion fatigue,  and a weakening of their ability to effectively help others. 
@@ -587,7 +587,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Chiron's  need for personal healing and introspection,  leading to a tendency to prioritize the needs of others over their own.
 * **Tilt:** 40% Harmony Tilt
 
-**Chiron/Uranus (Yin Chiron, Leading Uranus): The  Unconventional Mentor,  Guiding Through Transformation**
+**Chiron/Uranus (Yin Chiron, Uranus Leading): The  Unconventional Mentor,  Guiding Through Transformation**
 * **Principle:** This archetype embodies a unique blend of wisdom,  rebellion,  and healing. They have often walked a path less traveled,  facing challenges and setbacks that have forged within them a deep understanding of the human condition. Chiron's  wounded wisdom guides Uranus's  revolutionary spirit,  leading them to mentor and guide others through their own journeys of transformation.  Their approach is often unconventional,  challenging traditional norms and encouraging a more authentic and individualistic path to wholeness. 
 * **Examples:**  Life coaches who specialize in helping people overcome adversity,  spiritual teachers who guide others through unconventional practices,  mentors who share their wisdom and experience to empower others. 
 * **Core Dissonance:**  The core dissonance lies in the potential for projecting their own unhealed wounds and biases onto their students or clients,  hindering their ability to offer impartial guidance and support.
@@ -600,7 +600,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** 10% Dissonance Tilt
 
 
-**13. Chariklo/Uranus (Yang Chariklo, Leading Uranus):  The Harmonious Rebel,  Weaving Connection** 
+**13. Chariklo/Uranus (Yang Chariklo, Uranus Leading):  The Harmonious Rebel,  Weaving Connection** 
 * **Principle:** This archetype embodies a unique blend of compassion, creativity, and a rebellious spirit. They are driven by a desire to heal the world through unconventional means, using their gifts of empathy and intuition to connect with others and inspire a sense of unity and belonging. Chariklo leads the way, guiding Uranus's disruptive energy towards a harmonious expression.  
 * **Examples:** Artists who use their work to promote peace and understanding, musicians who create music that heals and unites, healers who work with subtle energies to bring balance and harmony.
 * **Core Dissonance:** This archetype can struggle with asserting their individuality and setting healthy boundaries, leading to a tendency to overextend themselves and become drained by the needs of others.
@@ -612,7 +612,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 25% -  Can clash with Chariklo's  need for harmony and balance, leading to a tendency to disrupt existing relationships or create unnecessary drama.
 * **Tilt:** 50% Harmony Tilt
 
-**Chariklo/Uranus (Yin Chariklo, Following Uranus):  The  Unconventional Healer,  Embracing the Unique** 
+**Chariklo/Uranus (Yin Chariklo, Uranus Following):  The  Unconventional Healer,  Embracing the Unique** 
 * **Principle:**  This archetype embodies a unique blend of intuitive healing and rebellious spirit, seeking to break free from traditional approaches to wellness and embrace unconventional methods. They follow Uranus's lead, allowing their intuition and empathy to guide their healing journey, often discovering new and innovative ways to restore balance and wholeness. 
 * **Examples:** Alternative healers who practice energy work or herbal medicine, therapists who use unconventional modalities, individuals who heal themselves and others through creative expression. 
 * **Core Dissonance:**  The potential for impracticality and a disconnect from established systems of knowledge can arise.  Their reliance on intuition might lead to embracing methods that lack empirical support or rejecting valuable traditional practices.
@@ -624,7 +624,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:** 40% - Can clash with Chariklo's focus on harmony and balance, leading to a tendency to disrupt existing systems of healing without offering viable alternatives. 
 * **Tilt:** 20% Harmony Tilt
 
-**Chariklo/Uranus (Yang Chariklo, Following Uranus): The  Compassionate Innovator,  Harmonizing Technology**
+**Chariklo/Uranus (Yang Chariklo, Uranus Following): The  Compassionate Innovator,  Harmonizing Technology**
 * **Principle:**  This archetype blends Chariklo's nurturing and healing energy with Uranus's  revolutionary spirit,  creating innovative solutions to social and technological challenges.  They are driven by a desire to use technology for good,  promoting connection,  healing,  and well-being. Chariklo leads the way,  guiding Uranus's  disruptive energy towards a more harmonious and compassionate expression. 
 * **Examples:**  Developers of healing technologies,  artists who use technology to promote empathy and understanding,  activists who leverage social media for positive change,  therapists who incorporate technology into their practice. 
 * **Core Dissonance:** This archetype can struggle with balancing their idealistic vision with the practical realities of technological development, potentially leading to unrealistic expectations or overlooking the potential for unintended consequences.
@@ -636,7 +636,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Chariklo's  need for harmony and balance,  leading to a tendency to disrupt existing social structures or create unintended consequences through their technological innovations.
 * **Tilt:**  40% Harmony Tilt
 
-**Chariklo/Uranus (Yin Chariklo, Leading Uranus):  The  Spiritual Alchemist,  Transforming Through Love** 
+**Chariklo/Uranus (Yin Chariklo, Uranus Leading):  The  Spiritual Alchemist,  Transforming Through Love** 
 * **Principle:**  This archetype embodies a powerful blend of spiritual awareness and unconventional healing,  using their deep connection to the Divine and their intuitive gifts to facilitate transformation in themselves and others.  Chariklo's  gentle energy guides Uranus's  revolutionary spirit  towards a path of healing and self-discovery,  leading to a profound awakening of the soul.  
 * **Examples:**  Spiritual teachers who embrace unconventional practices,  energy healers who work with the chakras and subtle bodies,  artists who channel spiritual energy through their creations,  individuals who have experienced profound spiritual awakenings and now guide others on their journey.
 * **Core Dissonance:**  This archetype can become overly reliant on intuition and spiritual guidance, potentially leading to a disconnect from the practical realities of life and a tendency towards escapism or delusion.  
@@ -648,7 +648,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  45% -  Can clash with Chariklo's  need for harmony and balance,  leading to a tendency to disrupt traditional spiritual practices or to become overly critical of established spiritual institutions.
 * **Tilt:**  10% Harmony Tilt
 
-**14. Pholus/Uranus (Yang Pholus, Leading Uranus):  The Accidental Revolutionary,  Unleashing Unexpected Change**
+**14. Pholus/Uranus (Yang Pholus, Uranus Leading):  The Accidental Revolutionary,  Unleashing Unexpected Change**
 * **Principle:** This archetype embodies the unpredictable and transformative power of small actions having big consequences.  Their influence is often amplified by Uranus's  revolutionary energy, leading to a chain of events that creates ripple effects far beyond their initial intentions.  Pholus  takes the lead,  with Uranus  accelerating the pace of change and amplifying the consequences of their actions.
 * **Examples:**  Whistleblowers who expose corruption,  scientists who make groundbreaking discoveries,  activists who spark social movements through seemingly small actions.
 * **Core Dissonance:** This archetype can struggle with recklessness and a lack of foresight, as their actions can have unintended consequences that they may not be prepared to handle.
@@ -660,7 +660,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with the need for caution and careful planning,  leading to impulsive actions that have unforeseen and potentially negative consequences.
 * **Tilt:**  60% Harmony Tilt
 
-**Pholus/Uranus (Yin Pholus, Following Uranus):  The  Subtle Transformer,  Amplifying Hidden Potential** 
+**Pholus/Uranus (Yin Pholus, Uranus Following):  The  Subtle Transformer,  Amplifying Hidden Potential** 
 * **Principle:**  This archetype embodies the power of small actions to create profound transformation,  working behind the scenes to amplify the potential for change.  They follow Uranus's  lead,  using Pholus'  catalytic energy to subtly shift the dynamics of situations and relationships,  often leading to unexpected breakthroughs.
 * **Examples:**  Therapists who uncover hidden traumas and facilitate healing,  mediators who bring about peaceful resolutions,  artists who inspire a shift in perspective through subtle nuances in their work.  
 * **Core Dissonance:**  The core dissonance for this archetype can be a lack of recognition and a tendency to feel unappreciated, as their contributions are often subtle and behind the scenes.
@@ -672,7 +672,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  40% -  Can clash with the need for direct action and visible results,  leading to a tendency to become frustrated with the slow pace of change or to seek recognition for their behind-the-scenes efforts. 
 * **Tilt:**  20% Harmony Tilt
 
-**Pholus/Uranus (Yang Pholus, Following Uranus):  The Unconventional Catalyst,  Spreading Innovation**
+**Pholus/Uranus (Yang Pholus, Uranus Following):  The Unconventional Catalyst,  Spreading Innovation**
 * **Principle:** This archetype is a conduit for unconventional ideas and practices, spreading them with an infectious enthusiasm that can catalyze unexpected transformations.  They follow Pholus's lead, using Uranus's revolutionary energy to break down barriers and inspire others to embrace change. Their impact is often felt in a ripple effect, as their actions inspire others to question the status quo and explore new possibilities.
 * **Examples:** Teachers who introduce innovative teaching methods,  entrepreneurs who bring unconventional products or services to market,  artists who challenge traditional aesthetics and inspire new forms of expression.
 * **Core Dissonance:** The core dissonance lies in the possibility of their enthusiasm for change leading to recklessness and a lack of foresight, potentially creating unintended consequences or spreading ideas that are not well-thought-out.
@@ -684,7 +684,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% - Can clash with Pholus'  tendency to act impulsively,  leading to a lack of foresight and unintended consequences. 
 * **Tilt:** 40% Harmony Tilt
 
-**Pholus/Uranus (Yin Pholus, Leading Uranus): The Transformative Healer, Amplifying Inner Potential**
+**Pholus/Uranus (Yin Pholus, Uranus Leading): The Transformative Healer, Amplifying Inner Potential**
 * **Principle:**  This archetype possesses a unique ability to uncover and amplify the hidden potential within individuals, leading to profound personal transformations. They work with the subtle energies of the psyche, using Uranus's  disruptive energy to break down limiting beliefs and emotional blockages, allowing for a deeper connection to the authentic self.  Pholus leads the way, its catalytic influence accelerating the healing process and revealing hidden strengths.
 * **Examples:**  Therapists who specialize in shadow work and inner child healing,  spiritual teachers who guide individuals on a journey of self-discovery,  artists who express the transformative power of the unconscious mind. 
 * **Core Dissonance:**  The potential for over-involvement and blurred boundaries is this archetype's core dissonance,  risking their own emotional well-being as they become deeply invested in the transformative processes of others.
@@ -697,7 +697,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** Balanced
 
 
-**15. Nessus/Uranus (Yang Nessus, Leading Uranus): The  Truth Seeker,  Confronting Abuse** 
+**15. Nessus/Uranus (Yang Nessus, Uranus Leading): The  Truth Seeker,  Confronting Abuse** 
 * **Principle:** This archetype is driven by a relentless pursuit of justice,  seeking to expose and dismantle systems of abuse and corruption. Nessus,  representing the karmic consequences of harmful actions,  takes the lead,  fueled by Uranus's  revolutionary spirit.  They are fearless in their pursuit of truth,  often facing powerful forces and confronting difficult realities in their quest for justice and healing. 
 * **Examples:**  Investigative journalists exposing sexual abuse scandals,  activists fighting against human trafficking,  therapists who specialize in working with survivors of trauma and abuse.
 * **Core Dissonance:** The core dissonance lies in their potential for becoming consumed by their pursuit of justice, leading to a tendency towards obsession, vengeance, and a perpetuation of the cycle of abuse. 
@@ -709,7 +709,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  35% -  Can clash with Nessus'  tendency towards obsession and revenge,  leading to a destructive approach to change.  
 * **Tilt:**  30% Harmony Tilt
 
-**Nessus/Uranus (Yin Nessus, Following Uranus):  The  Empowered Survivor,  Breaking Free from Toxicity**
+**Nessus/Uranus (Yin Nessus, Uranus Following):  The  Empowered Survivor,  Breaking Free from Toxicity**
 * **Principle:** This archetype embodies the transformative power of healing from trauma and abuse. They follow Uranus's  lead,  using Nessus's  energy to confront their own darkness and reclaim their power.  Their journey is often one of deep introspection and shadow work,  as they break free from toxic patterns and embrace their authentic self. 
 * **Examples:**  Survivors of abuse who find healing and empowerment through therapy or creative expression,  individuals who have overcome addiction and now help others,  activists who work to dismantle systems that perpetuate abuse. 
 * **Core Dissonance:** Their core dissonance lies in the risk of repeating the cycle of abuse, as their own unhealed wounds may lead them to perpetuate the same patterns of harm in their relationships and interactions. 
@@ -721,7 +721,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  45% -  Can clash with Nessus'  tendency towards obsession and revenge,  leading to a tendency to get stuck in the past or to become consumed by anger and resentment.  
 * **Tilt:** 10% Harmony Tilt
 
-**Nessus/Uranus (Yang Nessus, Following Uranus): The  Justice Seeker, Exposing Hidden Abuse**
+**Nessus/Uranus (Yang Nessus, Uranus Following): The  Justice Seeker, Exposing Hidden Abuse**
 * **Principle:** This archetype is driven by a relentless pursuit of justice for those who have been abused or exploited. They follow Nessus's lead, fueled by a deep sense of outrage and a desire to see perpetrators held accountable. Uranus's disruptive energy amplifies their impact,  leading to a radical dismantling of systems that perpetuate abuse and a passionate advocacy for the marginalized and vulnerable.
 * **Examples:** Activists fighting for the rights of abuse survivors, lawyers who specialize in prosecuting abusers,  investigative journalists who expose abuse scandals.
 * **Core Dissonance:** The core dissonance lies in the danger of becoming consumed by their crusade for justice,  potentially leading to a loss of compassion and a descent into vindictiveness and a desire for retribution.
@@ -733,7 +733,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with Nessus'  tendency towards obsession and a fixation on the past,  leading to a tendency to hold on to anger and resentment rather than focusing on solutions.
 * **Tilt:**  40% Harmony Tilt
 
-**Nessus/Uranus (Yin Nessus, Leading Uranus): The  Shadow Healer, Transforming Trauma into Wisdom**
+**Nessus/Uranus (Yin Nessus, Uranus Leading): The  Shadow Healer, Transforming Trauma into Wisdom**
 * **Principle:** This archetype embodies a profound understanding of the transformative power of trauma.  They are drawn to the depths of human experience,  using their own experiences of pain and healing to guide others towards liberation. Nessus's  energy,  representing the shadow side of human nature,  takes the lead,  while Uranus's  revolutionary spirit  inspires them to break free from the chains of the past and create a new paradigm of healing and wholeness. 
 * **Examples:**  Therapists who specialize in working with trauma survivors,  spiritual teachers who emphasize the importance of shadow work,  artists who use their creativity to process and heal from their own pain. 
 * **Core Dissonance:**  The core dissonance for this archetype arises from a potential for blurring of boundaries and a risk of getting overly entangled in the emotional complexities of others, hindering their own healing process and potentially perpetuating unhealthy dynamics.
@@ -746,7 +746,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Tilt:** Balanced
 
 
-**16. Haumea/Uranus (Yang Haumea, Leading Uranus):  Creative Visionary,  Birthing a New World** 
+**16. Haumea/Uranus (Yang Haumea, Uranus Leading):  Creative Visionary,  Birthing a New World** 
 * **Principle:** This archetype combines Uranus's innovative spirit with Haumea's creative fertility,  leading to a burst of creative energy and a desire to bring new ideas and projects to life.  Haumea, representing creation,  birth,  and new beginnings, takes the lead,  guiding Uranus's  disruptive energy towards a positive and generative expression.  They are driven by a passion for making the world a better place,  often focusing on projects related to community,  sustainability,  and social justice.
 * **Examples:** 
     * **Social Entrepreneurs:** Individuals who blend their passion for social change with a business mindset,  creating innovative solutions to societal problems while also generating economic value. 
@@ -762,7 +762,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  30% -  Can clash with the need for practicality and groundedness,  leading to a tendency to be overly idealistic or unrealistic in their approach.
 * **Tilt:** 40% Harmony Tilt
 
-**Haumea/Uranus (Yin Haumea, Following Uranus):  The  Playful Rebel,  Disrupting Through Creativity** 
+**Haumea/Uranus (Yin Haumea, Uranus Following):  The  Playful Rebel,  Disrupting Through Creativity** 
 * **Principle:** This archetype embodies a playful and rebellious spirit, challenging traditional structures and norms through a creative lens. They are often drawn to unconventional forms of expression, using art, music, and community engagement to disrupt the status quo and create a more vibrant and inclusive world. Haumea's creativity is guided by Uranus's rebellious spirit, leading to innovative and thought-provoking expressions.
 * **Examples:**  Street artists challenging societal norms,  musicians creating subversive music,  community organizers using creative methods to engage people,  individuals who express their individuality through unique fashion and style. 
 * **Core Dissonance:**  Their core dissonance lies in the possibility of their playful rebellion becoming self-serving, potentially leading to a disregard for the needs of others and a focus on individual expression at the expense of community harmony. 
@@ -774,7 +774,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  70% -  Can clash with Haumea's  focus on nurturing and community,  leading to a tendency to prioritize their own self-expression over the needs of others.
 * **Tilt:** 40% Dissonance Tilt
 
-**Haumea/Uranus (Yang Haumea, Following Uranus): The  Abundant Innovator,  Manifesting New Realities**
+**Haumea/Uranus (Yang Haumea, Uranus Following): The  Abundant Innovator,  Manifesting New Realities**
 * **Principle:**  This archetype combines Uranus's  innovative spirit with Makemake's  focus on resourcefulness and sustainability. They are driven by a desire to create a better future for all,  using their ingenuity and determination to develop practical solutions to environmental and social challenges.  Haumea leads the way,  guiding Uranus's  revolutionary energy towards a more sustainable and equitable world. 
 * **Examples:**  Entrepreneurs who create sustainable businesses,  artists who use their work to inspire social change,  community leaders who develop innovative solutions to local problems,  individuals who manifest their dreams into reality. 
 * **Core Dissonance:** This archetype can struggle with a tendency towards workaholism and neglecting their own needs for rest and rejuvenation, as their passion for creating a better world can lead to a relentless pursuit of their goals.
@@ -786,7 +786,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  25% -  Can clash with Haumea's  need for nurturing and connection,  leading to a tendency to prioritize their own goals over the needs of others.  
 * **Tilt:**  50% Harmony Tilt
 
-**Haumea/Uranus (Yin Haumea, Leading Uranus):  The  Heart-Centered Rebel,  Nurturing the Unique** 
+**Haumea/Uranus (Yin Haumea, Uranus Leading):  The  Heart-Centered Rebel,  Nurturing the Unique** 
 * **Principle:** This archetype embodies a nurturing and compassionate spirit that challenges the status quo through acts of kindness and creative expression. Haumea's  gentle energy guides Uranus's  rebellious spirit  towards a path of healing and inclusivity,  leading to a more loving and accepting world. They are driven by a deep desire to create a sense of belonging for those who feel marginalized or ostracized,  using their creativity and compassion to nurture the unique spark within each individual.
 * **Examples:**  Teachers who create inclusive classrooms,  artists who celebrate diversity and inclusivity in their work,  healers who offer a safe and compassionate space for others to heal.
 * **Core Dissonance:** This archetype may struggle with setting healthy boundaries and may become overly enmeshed in the needs of others, leading to emotional exhaustion and a sense of personal depletion. 
@@ -798,7 +798,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  45% - Can clash with Haumea's  need for stability and harmony,  leading to a tendency to disrupt existing social structures or to become overly idealistic in their approach.
 * **Tilt:**  10% Harmony Tilt
 
-**17. Makemake/Uranus (Yang Makemake, Leading Uranus): Resourceful Changemaker, Building a New World** 
+**17. Makemake/Uranus (Yang Makemake, Uranus Leading): Resourceful Changemaker, Building a New World** 
 * **Principle:** This archetype combines Uranus's revolutionary spirit with Makemake's focus on resourcefulness and self-reliance, leading to a proactive approach to creating change. Makemake,  representing  resourcefulness,  ingenuity, and action in service of a cause, takes the lead,  inspiring a fearless pursuit of a better world. They are driven by a desire to break free from limiting systems and build a more equitable and sustainable future, using their ingenuity and collaborative spirit to make a lasting impact.
 * **Examples:** 
     * **Social Entrepreneurs:**  Individuals who combine their passion for social change with a business mindset,  developing innovative and sustainable solutions to address social and environmental challenges.
@@ -814,7 +814,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  20% -  Can clash with the need for humility and collaboration,  leading to a tendency to be overly independent and resistant to feedback.
 * **Tilt:** 60% Harmony Tilt
 
-**Makemake/Uranus (Yin Makemake, Following Uranus):  Independent Renegade, Forging a Unique Path** 
+**Makemake/Uranus (Yin Makemake, Uranus Following):  Independent Renegade, Forging a Unique Path** 
 * **Principle:** This archetype embodies a fiercely independent spirit, seeking to forge their own path and create a new world according to their own vision. They challenge conventional wisdom,  disrupting existing systems,  and paving a unique path that honors their individual values and beliefs.  Uranus's  revolutionary energy fuels their independent spirit, leading them to create change through unconventional and often solitary means. 
 * **Examples:**  Solo entrepreneurs,  independent artists,  off-grid pioneers,  individuals who challenge societal norms and forge their own path.
 * **Core Dissonance:** The core dissonance lies in the potential for isolation and a disconnect from the collective, as their pursuit of individual freedom might lead them to reject collaboration and community support. 
@@ -826,7 +826,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  70% -  Can clash with Uranus'  vision for a collective awakening and social change,  leading to a tendency to prioritize their own path over the needs of the community.
 * **Tilt:** 40% Dissonance Tilt
 
-**Makemake/Uranus (Yang Makemake, Following Uranus):  The  Resourceful Visionary,  Building for Sustainability**
+**Makemake/Uranus (Yang Makemake, Uranus Following):  The  Resourceful Visionary,  Building for Sustainability**
 * **Principle:**  This archetype combines Uranus's  innovative spirit with Makemake's  focus on resourcefulness and sustainability. They are driven by a desire to create a better future for all,  using their ingenuity and determination to develop practical solutions to environmental and social challenges.  Makemake leads the way,  guiding Uranus's  revolutionary energy towards a more sustainable and equitable world. 
 * **Examples:**  Environmental activists who develop innovative solutions to climate change,  entrepreneurs who create sustainable businesses,  community leaders who promote self-sufficiency and resilience,  inventors and designers who focus on resource conservation and renewable energy.
 * **Core Dissonance:**  This archetype may struggle to balance their grand vision with the need for patience and persistence,  leading to frustration with the slow pace of progress and a tendency to jump from one project to another without seeing things through to completion.
@@ -838,7 +838,7 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Dissonances:**  25% -  Can clash with Makemake's  need for action and tangible results,  leading to a tendency to become impatient with the slow pace of change or to overlook important details.
 * **Tilt:**  50% Harmony Tilt 
 
-**Makemake/Uranus (Yin Makemake, Leading Uranus):  The  Independent Creator,  Breaking the Mold**
+**Makemake/Uranus (Yin Makemake, Uranus Leading):  The  Independent Creator,  Breaking the Mold**
 * **Principle:**  This archetype is a trailblazer who defies expectations and forges their own unique path.  Makemake's  independent spirit is fueled by Uranus's  revolutionary energy,  leading to a rebellious and unconventional approach to life.  They are driven by a deep need for self-expression and a desire to create a world that reflects their own vision. 
 * **Examples:**  Artists who challenge traditional aesthetics,  entrepreneurs who disrupt industries with their innovative ideas,  writers who break literary conventions,  individuals who reject societal norms and embrace their individuality. 
 * **Core Dissonance:** This archetype can struggle with a lack of collaboration and a tendency towards isolation,  as their independent spirit might lead them to reject the input and support of others. 
@@ -849,8 +849,3 @@ This whitepaper explores this celestial ballet,  examining the archetypal manife
 * **Harmonies:**  50% -  Makemake's  independent spirit aligns with Uranus'  desire for liberation and self-expression,  leading to a powerful force for creativity and innovation. 
 * **Dissonances:**  50% -  Can clash with Uranus's  focus on collective change and social justice,  leading to a tendency to prioritize their own individual needs and vision over the needs of others. 
 * **Tilt:**  Balanced
-
-
-
-
-
