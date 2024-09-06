@@ -10,9 +10,9 @@ Uranus, the celestial awakener, is a master choreographer, leading a cosmic danc
 
 This whitepaper explores this celestial ballet,  examining the archetypal manifestations that emerge when Uranus partners with other planetary archetypes, each expressing their yin and yang polarities.  By understanding the nuances of these partnerships, we can gain a deeper appreciation for the transformative power of Uranus and its ability to shape both individual destinies and collective evolution.
 
-* **Leading Uranus:**  In this dynamic, Uranus's energy is the primary driving force, acting as the catalyst for change and disruption.  The other planet's archetype is "colored" by the Uranian influence, expressing its qualities in a more unconventional, rebellious, and innovative manner.  Imagine Uranus as the conductor of an orchestra, setting the tempo and directing the other planets to play its radical tune. 
+* **Uranus Leading:**  In this dynamic, Uranus's energy is the primary driving force, acting as the catalyst for change and disruption.  The other planet's archetype is "colored" by the Uranian influence, expressing its qualities in a more unconventional, rebellious, and innovative manner.  Imagine Uranus as the conductor of an orchestra, setting the tempo and directing the other planets to play its radical tune. 
 
-* **Following Uranus:**  In this scenario, the other planet's archetype takes the lead, while Uranus's energy acts as a supporting player, amplifying and accelerating the transformative process.  Think of Uranus as a powerful amplifier,  enhancing the volume and intensity of the other planet's energy,  leading to a more profound and accelerated transformation. 
+* **Uranus Following:**  In this scenario, the other planet's archetype takes the lead, while Uranus's energy acts as a supporting player, amplifying and accelerating the transformative process.  Think of Uranus as a powerful amplifier,  enhancing the volume and intensity of the other planet's energy,  leading to a more profound and accelerated transformation. 
 
 **2. Archetypal Manifestations of Uranus in Planetary Polarity:**
 
