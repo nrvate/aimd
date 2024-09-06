@@ -374,7 +374,7 @@ Here's an explanation of each of the elements used to describe the archetypal ma
         - Mindfulness:  Develop a mindfulness practice to cultivate present moment awareness and avoid getting lost in their thoughts. 
     * **Finding Meaning Beyond the Intellect:**
         - Explore Spirituality or Philosophy:  Engage in practices or studies that connect them to a sense of meaning and purpose beyond the realm of the intellect. 
-        - Connect with Nature:  Spend time in nature to reconnect with a sense of awe and wonder,  transcending the limitations of the mind.
+        - Connect with Nature:  Spend time in nature to reconnect with a sense of awe and wonder,  transcending the limitations of the mind. 
 
 ### 1. All Manifestations of Venus/Uranus
 
@@ -526,7 +526,6 @@ Here's an explanation of each of the elements used to describe the archetypal ma
     * **Anger Management:**  Learn healthy ways to express and channel their anger,  such as through physical exercise,  creative outlets,  or therapy. 
     * **Strategic Thinking:**  Develop their strategic thinking skills,  learning to approach conflict and social change with a more calculated and effective plan.
     * **Collaboration and Diplomacy:**  Cultivate skills in collaboration and diplomacy,  recognizing the importance of building alliances and working with others to achieve shared goals.  
-
 
 ### 3. All Manifestations of Jupiter/Uranus
 
@@ -687,6 +686,7 @@ Here's an explanation of each of the elements used to describe the archetypal ma
         - Delegate Tasks:  Learn to delegate tasks and responsibilities to others,  trusting them to contribute their own unique skills and talents.
         - Embrace Spontaneity:  Allow for flexibility and spontaneity in their plans,  recognizing that sometimes the best outcomes arise from unexpected detours. 
         - Cultivate a Growth Mindset:  View challenges as opportunities for learning and growth,  rather than as threats to their sense of control.  
+
 
 **Saturn/Uranus (Yang Saturn, Uranus Following): The Pragmatic Visionary,  Building for the Future**
 * **Principle:**  This archetype combines a strong sense of duty and responsibility with a desire to create a more equitable and just world.  They are practical idealists who recognize that lasting change requires a disciplined approach and a long-term vision.  Saturn leads the way,  providing a structure for Uranus's  revolutionary ideas to flourish and manifest in the real world.  
@@ -1688,34 +1688,30 @@ Here's an explanation of each of the elements used to describe the archetypal ma
 ### 1. All Manifestations of Makemake/Uranus:
 
 **Makemake/Uranus (Yang Makemake, Uranus Leading): Resourceful Changemaker, Building a New World** 
-* **Principle:** This archetype combines Uranus's revolutionary spirit with Makemake's focus on resourcefulness and self-reliance, leading to a proactive approach to creating change. Makemake,  representing  resourcefulness, ingenuity, and action in service of a cause, takes the lead, inspiring a fearless pursuit of a better world. They are driven by a desire to break free from limiting systems and build a more equitable and sustainable future, using their ingenuity and collaborative spirit to make a lasting impact.
-* **Examples:** 
-    * **Social Entrepreneurs:**  Individuals who combine their passion for social change with a business mindset,  developing innovative and sustainable solutions to address social and environmental challenges.
-    * **Community Organizers:**  Leaders who bring people together to address local issues and create positive change in their communities,  often focusing on sustainable solutions and empowering marginalized groups. 
-    * **Environmental Activists:** Individuals who advocate for environmental protection and sustainability,  challenging unsustainable practices and promoting a more harmonious relationship with nature.
-    * **Inventors and Designers:**  Creative individuals who develop new technologies and designs that promote sustainability and address social needs,  often focusing on resource efficiency,  renewable energy,  and ethical production.
-* **Core Dissonance:** This archetype may struggle with a tendency towards arrogance and an unwillingness to compromise, leading to difficulties in collaborating effectively with others and a potential for isolating themselves from valuable support.
-* **Dissonant Energies:**  Leo (egotism, dominance - 10%), 5th House (self-centeredness, need for attention - 10%). 
-* **Opportunities:** Creating innovative solutions to social and environmental problems, inspiring others to take action, building resilient and sustainable communities, challenging the status quo and promoting a more equitable future.
+* **Principle:** This archetype combines Uranus's revolutionary spirit with Makemake's focus on resourcefulness and self-reliance, leading to a proactive approach to creating change. Makemake, representing resourcefulness, ingenuity, and action in service of a cause, takes the lead, inspiring a fearless pursuit of a better world. They are driven by a desire to break free from limiting systems and build a more equitable and sustainable future, using their ingenuity and collaborative spirit to make a lasting impact.
+* **Examples:** Social Entrepreneurs, Community Organizers, Environmental Activists, Inventors and Designers focused on sustainable solutions. 
+* **Core Dissonance:**  This archetype may struggle with a tendency towards arrogance and an unwillingness to compromise, leading to difficulties in collaborating effectively with others and a potential for isolating themselves from valuable support.
+* **Dissonant Energies:**  Leo (egotism,  dominance - 10%), 5th House (self-centeredness, need for attention - 10%). 
+* **Opportunities:** Creating innovative solutions to social and environmental problems,  inspiring others to take action, building resilient and sustainable communities, challenging the status quo and promoting a more equitable future.
 * **Challenges:** Overcoming resistance to change, navigating complex social and environmental issues, maintaining their momentum and avoiding burnout. 
 * **Shadow Material:** Becoming overly focused on their own vision, dismissing the ideas of others, using their influence to control or manipulate others, losing sight of the bigger picture.
-* **Harmonies:**  80% - Aligns strongly with Uranus'  desire for change,  innovation,  and a more equitable and sustainable world.
-* **Dissonances:** 20% -  Can clash with the need for humility and collaboration,  leading to a tendency to be overly independent and resistant to feedback.
+* **Harmonies:** 80% - Aligns strongly with Uranus'  desire for change, innovation, and a more equitable and sustainable world.
+* **Dissonances:** 20% - Can clash with the need for humility and collaboration, leading to a tendency to be overly independent and resistant to feedback.
 * **Tilt:** 60% Harmony Tilt
-* **Tarot:**  The Emperor (70%), The World (75%), The Star (70%)
-* **Jungian Archetype:** The Creator (80%), The Ruler (70%), The Hero (70%)
-* **Personality Types:** ENTJ (The Commander) (75%), ENFP (The Campaigner) (70%)
-* **Psychological Theories:**  Social Change Theory (75%),  Systems Thinking (70%),  Sustainability (80%)
-* **Evolutionary Path:** This archetype may begin by charging ahead with their own ideas, determined to create change independently.  Over time, they learn the value of collaboration and the power of collective action, realizing that lasting change requires a more inclusive and integrated approach.  They evolve into inspiring leaders who empower others to join their vision for a better world. 
-* **Integration Strategies:**
-    * **Embracing Collaboration:**
-        - Active Listening:  Practice actively listening to the ideas and perspectives of others,  valuing their contributions and recognizing that they have much to learn from different viewpoints.
-        -  Seek Partnerships:  Actively seek out collaborations with others who share their values and goals,  combining their strengths and resources to create a greater impact. 
-        -  Compromise and Negotiation:  Develop their skills in compromise and negotiation,  learning to balance their own vision with the needs and desires of others. 
-    * **Cultivating Humility:**
-        -  Recognize Their Limitations:  Acknowledge that they don't have all the answers and that they can benefit from the support and guidance of others.
-        -  Seek Feedback:  Be open to constructive criticism and use it as an opportunity for growth and improvement.
-        -  Celebrate Shared Successes:  Recognize and acknowledge the contributions of everyone involved in their projects, fostering a culture of collaboration and mutual respect.
+* **Tarot:** The World (80%),  The Emperor (70%),  The Star (70%)
+* **Jungian Archetype:**  The Creator (80%), The Ruler (70%), The Hero (70%)
+* **Personality Types:**  ENTJ (The Commander) (75%), ENFP (The Campaigner) (70%)
+* **Psychological Theories:**  Social Entrepreneurship (80%),  Systems Thinking (70%)
+* **Evolutionary Path:** This archetype may begin as an ambitious and idealistic changemaker,  driven by a strong sense of purpose and a desire to make a difference in the world. As they gain experience,  they learn to balance their individual vision with the needs of the collective,  recognizing the power of collaboration and the importance of humility in creating lasting and sustainable change. 
+* **Integration Strategies:**  
+    * **Cultivating Humility and Collaboration:** 
+        - Seek Feedback:  Regularly seek feedback from others,  especially those who have different perspectives and experiences. Be open to constructive criticism and use it as an opportunity for growth and improvement. 
+        -  Practice Active Listening:  Make a conscious effort to truly listen to and understand the perspectives of others,  even when they disagree. 
+        -  Embrace Teamwork:  Recognize that they can achieve more by working together with others,  sharing their knowledge and resources and supporting each other's strengths. 
+    * **Balancing Vision with Action:**
+        -  Set Realistic Goals:  Break down large goals into smaller, more manageable steps to avoid becoming overwhelmed and to ensure steady progress.
+        -  Focus on Tangible Results:  Prioritize actions that create measurable impact and lead to tangible outcomes. 
+        -  Celebrate Small Victories:  Acknowledge and celebrate their successes along the way,  maintaining their motivation and momentum. 
 
 **Makemake/Uranus (Yin Makemake, Uranus Following):  Independent Renegade, Forging a Unique Path** 
 * **Principle:** This archetype embodies a fiercely independent spirit, seeking to forge their own path and create a new world according to their own vision. They challenge conventional wisdom,  disrupting existing systems,  and paving a unique path that honors their individual values and beliefs.  Uranus's  revolutionary energy fuels their independent spirit, leading them to create change through unconventional and often solitary means. 
@@ -1728,25 +1724,25 @@ Here's an explanation of each of the elements used to describe the archetypal ma
 * **Harmonies:** 30% - Aligns with Uranus'  desire for freedom and individuality,  amplified by Makemake's  focus on self-reliance and resourcefulness.
 * **Dissonances:**  70% -  Can clash with Uranus'  vision for a collective awakening and social change,  leading to a tendency to prioritize their own path over the needs of the community.
 * **Tilt:** 40% Dissonance Tilt
-* **Tarot:** The Hermit (75%), The Fool (70%), The Tower (65%)
-* **Jungian Archetype:** The Outlaw (75%), The Wanderer (70%), The Lone Wolf (65%) 
-* **Personality Types:**  ISTP (The Virtuoso) (70%),  INTP (The Logician) (75%)
-* **Psychological Theories:**  Individualism,  Self-Reliance (70%)
-* **Evolutionary Path:** This archetype often starts as a lone wolf, seeking to break free from the constraints of society and forge their own path. Their journey involves learning to balance their need for independence with the value of connection and collaboration, recognizing that true freedom is found not in isolation but in community.
-* **Integration Strategies:**
-    * **Finding Community:**
-        -  Seek Out Like-Minded Individuals:  Connect with others who share their values and interests,  finding a sense of belonging and support.
-        -  Join Groups or Organizations:  Participate in groups or organizations that align with their passions and offer opportunities for collaboration.  
-        -  Reach Out for Support:  Be willing to ask for help when they need it,  recognizing that independence doesn't mean going it alone.  
-    * **Cultivating Collaboration:**
-        -  Practice Active Listening:  Learn to listen to and value the perspectives of others,  even when they differ from their own. 
-        -  Develop Communication Skills:  Improve their communication skills to effectively convey their ideas and needs to others. 
-        -  Embrace Compromise:  Be willing to compromise and find solutions that work for everyone involved.  
+* **Tarot:** The Hermit (80%), The Tower (70%), The Fool (65%)
+* **Jungian Archetype:**  The Outlaw (75%),  The Lone Wolf (70%),  The Rebel (65%)
+* **Personality Types:**  ISTP (The Virtuoso) (75%),  INTP (The Logician) (70%) 
+* **Psychological Theories:**  Individualism,  Self-Reliance,  Existentialism
+* **Evolutionary Path:** This archetype can evolve from a lone wolf,  resistant to connection and focused on their own individual path,  to a more collaborative and community-minded individual. They learn to balance their need for independence with the value of interdependence,  recognizing that they can achieve more by working together with others. 
+* **Integration Strategies:**  
+    * **Building Community:**
+        - Connect with Like-Minded Individuals:  Seek out communities or groups that share their values and interests,  finding a sense of belonging and support.
+        - Practice Collaboration:  Engage in projects or activities that require teamwork,  learning to value the contributions of others.
+        -  Offer Their Skills and Resources:  Share their knowledge and expertise with others,  contributing to the collective good.  
+    * **Balancing Independence and Interdependence:**
+        -  Recognize the Value of Support:  Learn to ask for help when needed and to accept support from others.
+        -  Cultivate Healthy Relationships:  Build strong and healthy relationships with people who respect their need for independence while also offering love and support.  
+        -  Find a Balance:  Find a balance between their independent pursuits and their involvement in community and collaboration,  recognizing the value of both.
 
 **Makemake/Uranus (Yang Makemake, Uranus Following):  The  Resourceful Visionary,  Building for Sustainability**
 * **Principle:**  This archetype combines Uranus's  innovative spirit with Makemake's  focus on resourcefulness and sustainability. They are driven by a desire to create a better future for all,  using their ingenuity and determination to develop practical solutions to environmental and social challenges.  Makemake leads the way,  guiding Uranus's  revolutionary energy towards a more sustainable and equitable world. 
 * **Examples:**  Environmental activists who develop innovative solutions to climate change,  entrepreneurs who create sustainable businesses,  community leaders who promote self-sufficiency and resilience,  inventors and designers who focus on resource conservation and renewable energy.
-* **Core Dissonance:** This archetype may struggle to balance their grand vision with the need for patience and persistence, leading to frustration with the slow pace of progress and a tendency to jump from one project to another without seeing things through to completion.
+* **Core Dissonance:**  This archetype may struggle to balance their grand vision with the need for patience and persistence,  leading to frustration with the slow pace of progress and a tendency to jump from one project to another without seeing things through to completion.
 * **Dissonant Energies:**  Pisces (escapism,  lack of practicality - 15%),  12th House (self-sabotage,  hidden enemies - 10%),  Neptune (delusion,  addiction - 5%).
 * **Opportunities:**  Creating a more sustainable and equitable future,  inspiring others to live in harmony with the Earth,  challenging unsustainable practices,  developing innovative solutions to global challenges.
 * **Challenges:**  Overcoming resistance from those who are invested in the status quo,  navigating the complexities of environmental and social issues,  balancing their idealistic vision with the need for practicality.  
@@ -1754,20 +1750,20 @@ Here's an explanation of each of the elements used to describe the archetypal ma
 * **Harmonies:**  75% - Aligns with Uranus'  desire for progress and innovation,  amplified by Makemake's  focus on resourcefulness and sustainability. 
 * **Dissonances:**  25% -  Can clash with Makemake's  need for action and tangible results,  leading to a tendency to become impatient with the slow pace of change or to overlook important details.
 * **Tilt:**  50% Harmony Tilt
-* **Tarot:** The World (75%), The Star (70%), The Empress (70%)
-* **Jungian Archetype:** The Creator (80%), The Hero (70%), The Builder (70%)
-* **Personality Types:**  ENTP (The Debater) (75%), ENFJ (The Protagonist) (70%)
-* **Psychological Theories:**  Systems Thinking,  Environmental Psychology (75%)
-* **Evolutionary Path:** This archetype can move from being an impatient idealist to a grounded and effective changemaker. They learn to balance their visionary perspective with a realistic understanding of the challenges involved in creating lasting change, cultivating patience and persistence in their efforts to build a more sustainable and equitable world.
+* **Tarot:**  The World (75%),  The Star (70%),  The Empress (70%) 
+* **Jungian Archetype:**  The Creator (80%), The Environmentalist (75%),  The Hero (70%)
+* **Personality Types:**  ENTP (The Debater) (75%),  ESTP (The Entrepreneur) (70%) 
+* **Psychological Theories:**  Sustainability,  Systems Thinking,  Permaculture (70%)
+* **Evolutionary Path:** This archetype can evolve from a passionate advocate for sustainability to a visionary leader who inspires and empowers others to create a more just and equitable world. They learn to balance their focus on innovation with a deep understanding of the interconnectedness of all things,  recognizing that the well-being of the planet and its inhabitants are inextricably linked.  
 * **Integration Strategies:** 
     * **Cultivating Patience and Persistence:**
-        -  Embrace the Process:  Recognize that creating lasting change takes time and effort,  and learn to enjoy the journey rather than focusing solely on the destination. 
-        -  Develop a Long-Term Vision:  Create a clear and compelling vision for the future,  and use it to guide their actions and decisions.
-        -  Celebrate Small Victories:  Acknowledge and celebrate their progress along the way,  no matter how small,  to maintain their motivation and inspiration.
-    * **Focusing on Collaboration:**
-        -  Seek Out Diverse Perspectives:  Recognize the value of collaboration and seek out the input and expertise of others,  especially those who come from different backgrounds and disciplines. 
-        -  Practice Active Listening:  Make a conscious effort to listen to and understand the perspectives of others,  even when they differ from their own. 
-        -  Embrace Compromise:  Be willing to compromise and find solutions that work for everyone involved.
+        - Embrace the Long-Term Vision:  Recognize that creating lasting change takes time and effort,  and focus on building a solid foundation for their vision. 
+        -  Celebrate Small Victories:  Acknowledge and celebrate their successes along the way,  maintaining their motivation and enthusiasm. 
+        -  Learn from Setbacks:  View setbacks as opportunities for learning and growth,  adapting their strategies as needed. 
+    * **Expanding Their Circle of Compassion:**
+        - Connect with Diverse Communities:  Engage with people from different backgrounds and cultures,  listening to their perspectives and understanding their needs. 
+        -  Promote Social Justice:  Recognize the interconnectedness of social and environmental issues,  and advocate for policies and practices that create a more equitable world for all. 
+        -  Practice Gratitude:  Cultivate a sense of gratitude for the Earth and its abundance,  inspiring a deeper connection to the natural world.
 
 **Makemake/Uranus (Yin Makemake, Uranus Leading):  The  Independent Creator,  Breaking the Mold**
 * **Principle:**  This archetype is a trailblazer who defies expectations and forges their own unique path.  Makemake's  independent spirit is fueled by Uranus's  revolutionary energy,  leading to a rebellious and unconventional approach to life.  They are driven by a deep need for self-expression and a desire to create a world that reflects their own vision. 
@@ -1780,17 +1776,17 @@ Here's an explanation of each of the elements used to describe the archetypal ma
 * **Harmonies:**  50% -  Makemake's  independent spirit aligns with Uranus'  desire for liberation and self-expression,  leading to a powerful force for creativity and innovation. 
 * **Dissonances:**  50% -  Can clash with Uranus's  focus on collective change and social justice,  leading to a tendency to prioritize their own individual needs and vision over the needs of others. 
 * **Tilt:**  Balanced
-* **Tarot:**  The Hermit (75%), The Magician (70%),  The Fool (70%),  The Tower (60%)
-* **Jungian Archetype:**  The Creator (70%),  The Outlaw (75%),  The Individualist (65%) 
-* **Personality Types:**  INTP (The Logician) (80%),  ISTP (The Virtuoso) (75%) 
-* **Psychological Theories:**  Individualism (75%),  Self-Reliance (70%)
-* **Evolutionary Path:** This archetype often begins by carving their own unique path,  rejecting societal expectations and embracing their individuality.  As they mature,  they learn to balance their need for independence with a greater understanding of interdependence,  recognizing the value of community and collaboration in creating a more equitable and fulfilling world.  
-* **Integration Strategies:** 
-    * **Building Community:**
-        -  Seek Out Like-Minded Individuals:  Find communities and groups that resonate with their values and interests,  creating a sense of belonging and support.
-        -  Participate in Collaborative Projects:  Engage in projects that allow them to contribute their unique skills and talents while working alongside others. 
-        -  Practice Open-Mindedness:  Be willing to listen to and consider the perspectives of others,  even when they differ from their own.
-    * **Finding a Balance Between Independence and Interdependence:** 
-        -  Recognize the Value of Collaboration:  Understand that working with others can amplify their impact and create more sustainable solutions.
-        -  Develop Healthy Boundaries:  Learn to set healthy boundaries in their relationships,  honoring their need for independence while also allowing for vulnerability and connection.
-        -  Embrace Community Support:  Be willing to ask for help when they need it,  recognizing that receiving support is not a sign of weakness but a strength.  
+* **Tarot:** The Hermit (75%), The Fool (70%), The Magician (65%) 
+* **Jungian Archetype:** The Creator (70%), The Outlaw (75%), The Individualist (65%)
+* **Personality Types:**  INTP (The Logician) (75%),  ISTP (The Virtuoso) (70%)
+* **Psychological Theories:**  Individual Psychology (Adler),  Self-Actualization (Maslow) (70%)
+* **Evolutionary Path:** This archetype can evolve from a lone wolf,  focused primarily on their own creative expression and personal liberation, to a more integrated individual who recognizes the value of community and collaboration.  They learn to share their unique gifts with the world,  inspiring others through their authenticity and their willingness to challenge the status quo.
+* **Integration Strategies:**
+    * **Building Community:** 
+        -  Seek Out Like-Minded Individuals:  Connect with others who share their interests and values,  creating a supportive community that encourages their unique expression. 
+        -  Engage in Collaborative Projects:  Participate in group projects or activities that allow them to share their talents and learn from others.
+        -  Find Mentors and Peers:  Seek guidance and support from experienced individuals who can help them to navigate the challenges of being an independent creator. 
+    * **Balancing Independence with Interdependence:**
+        -  Practice Receiving Support:  Learn to ask for help when needed and to accept support from others. 
+        -  Develop Healthy Relationships:  Cultivate balanced and reciprocal relationships that honor both their need for independence and their desire for connection.  
+        -  Find a Balance:  Find a sustainable balance between their individual pursuits and their involvement in community, recognizing the value of both autonomy and interdependence.
