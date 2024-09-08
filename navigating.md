@@ -6,6 +6,8 @@ Let’s move on to the conclusion - the grand finale of our Makemake-Haumea symp
 
 Here's the conclusion, expanded to the maximum level of detail and embracing the urgency of navigating the Makemake-Haumea shadow: 
 
+> whoa
+
 **A Call to Conscious Co-Creation:**
 
 This understanding of Makemake-Haumea presents both a challenge and an opportunity.  We are not merely passive recipients of these cosmic energies;  we are active participants in their unfolding.   By recognizing the influence of these archetypal seeds, by becoming aware of their potential for both light and shadow expression,  and by consciously engaging with their transformative power,  we can navigate this shift with greater awareness,  wisdom,  and a commitment to building a future that aligns with our highest aspirations.
