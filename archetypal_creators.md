@@ -1,6 +1,6 @@
 > This document provides: <br>  
 > - Comparisons between the astrological Haumea and Makemake with their updated archetypes,
-> the Archetype Midwife and Facilitatorm, both in table and article form <br>
+> the Archetype Midwife and Facilitator, both in table and article form <br>
 > - Descriptions of both Archetypal Creators <br>
 > - A description of the journey of archetype evolution
 
