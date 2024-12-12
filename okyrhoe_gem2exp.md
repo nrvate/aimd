@@ -121,7 +121,7 @@ Okay, this is fantastic! Analyzing the discovery chart of Okyrhoe provides a pow
     * **T-square to Nodal Axis:** The theme is of karmic lessons around her destiny. With the North Node in Virgo and the South Node in Pisces, there's a pull between using detailed and grounded knowledge and her spiritual and intuitive knowing. This intensifies the theme of inner division and the struggle to align her actions with her deepest truths.
    * **Ixion Sextile Rhadamanthus:** This aspect supports her deep commitment to truth and justice, and the need to find structure and order to support her personal understanding of what is right and true.
 
-    **Enrichment:** This further defines Okyrhoe's unique path, and her karmic destiny of exploring a grounded spiritual path. There is a very strong theme of questioning norms and challenging societal structures to create a life based on her unique sense of justice.
+   **Enrichment:** This further defines Okyrhoe's unique path, and her karmic destiny of exploring a grounded spiritual path. There is a very strong theme of questioning norms and challenging societal structures to create a life based on her unique sense of justice.
 
 **Synthesis and Deepening of the CombOkyrhoe Archetype:**
 
